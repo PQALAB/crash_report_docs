@@ -47,6 +47,10 @@ html, body {
   width: 20px;
 }
 
+.highlight .o {
+  color: white;
+}
+
 .toc-wrapper {
   transition: left 0.3s ease-in-out;
 
@@ -76,6 +80,8 @@ html, body {
     display: block;
     max-width: 100%;
     margin-bottom: $logo-margin;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   &>.search {
