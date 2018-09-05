@@ -12,7 +12,7 @@ search: true
 
 # CrashReport
 
-> Report crashes as they happen or shake to document bugs!
+Report crashes as they happen or shake to document bugs!
 
 CrashReport streamlines mobile bug and crash reporting for your QA team. Begin a report automatically upon crash or shake the device to manually start a report. Reports include can include logs, annotated images, and descriptions.
 
