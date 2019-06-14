@@ -54,6 +54,8 @@ To use CrashReport in your Android application, you must complete these two step
 
 2. For this step, a custom `Application` class is required. In the `onCreate()` method of your custom `Application` class, create a `Reporter` object and then `init()`:
 
+3. Log some bugs
+
 ```java
 // Step 2.
 public class CustomApplication extends Application {
